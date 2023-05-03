@@ -161,7 +161,8 @@ form textarea {
   border: none;
   font-family: "Architects Daughter", cursive;
   text-decoration: none;
-  padding: 0 10px 3px 5px;
+  padding: 2px 10px 3px 5px;
+  font-size: 1rem;
   border-radius: 5px;
   background-color: #ffeaa7;
 }
